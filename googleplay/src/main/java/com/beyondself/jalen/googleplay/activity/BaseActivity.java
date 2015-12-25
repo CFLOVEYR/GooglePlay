@@ -1,4 +1,4 @@
-package com.beyondself.jalen.googleplay;
+package com.beyondself.jalen.googleplay.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

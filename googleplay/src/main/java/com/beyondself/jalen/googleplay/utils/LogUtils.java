@@ -2,10 +2,10 @@ package com.beyondself.jalen.googleplay.utils;
 
 
 
-import java.util.List;
-
 import android.text.TextUtils;
 import android.util.Log;
+
+import java.util.List;
 
 /**
  * 日志输出控制类 (Description)
@@ -26,9 +26,9 @@ public class LogUtils {
 	public static final int LEVEL_ERROR = 5;
 
 	/** 日志输出时的TAG */
-	private static String mTag = "mwqi";
+	private static String mTag = "YJL";
 	/** 是否允许输出log */
-	private static int mDebuggable = LEVEL_ERROR;
+	private static int mDebuggable = LEVEL_VERBOSE;
 
 	/** 用于记时的变量 */
 	private static long mTimestamp = 0;

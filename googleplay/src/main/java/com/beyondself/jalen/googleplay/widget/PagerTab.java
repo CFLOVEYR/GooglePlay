@@ -23,7 +23,7 @@ import android.view.ViewTreeObserver;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.beyondself.jalen.googleplay.BaseActivity;
+import com.beyondself.jalen.googleplay.activity.BaseActivity;
 import com.beyondself.jalen.googleplay.R;
 import com.beyondself.jalen.googleplay.utils.UIUtils;
 

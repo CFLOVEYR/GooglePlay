@@ -11,7 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Toast;
 
-import com.beyondself.jalen.googleplay.BaseActivity;
+import com.beyondself.jalen.googleplay.activity.BaseActivity;
 import com.beyondself.jalen.googleplay.application.BaseApplication;
 
 public class UIUtils {
